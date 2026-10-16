@@ -23,7 +23,7 @@ an interactive pie chart gives you an overview of your missing mastery xp, helpi
 
 ## screenshots
 
-visit **[www.orokinex.com](https://www.orokinex.com)** to see screenshots and learn more about the app.
+visit **[www.orokinex.com](https://orokinex.com)** to see screenshots and learn more about the app.
 
 
 ## what's next?
@@ -39,7 +39,7 @@ you can download the latest version of orokinex for windows here:
 
 **[download orokinex](https://github.com/orwren/Orokinex-releases/releases/latest)**
 
-you can also visit the [official website]([https://www.orokinex.com](https://orokinex.com/)) for more information.
+you can also visit the [official website]([https://orokinex.com](https://orokinex.com/)) for more information.
 
 ## feedback and support
 
