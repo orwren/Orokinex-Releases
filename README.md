@@ -23,7 +23,7 @@ an interactive pie chart gives you an overview of your missing mastery xp, helpi
 
 ## screenshots
 
-visit [orokinex.com]([https://www.orokinex.com](https://orokinex.com/)) to see screenshots and learn more about the app.
+visit **[www.orokinex.com](https://www.orokinex.com)** to see screenshots and learn more about the app.
 
 
 ## what's next?
